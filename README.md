@@ -12,7 +12,7 @@ Over these 10 years, I have been able to develop and work on some of my own proj
  <p>PHP</p>
  <p>Laravel</p>
  <p>Java Script</p>
- <p>![image](https://github.com/juliano-rezende/juliano-rezende/assets/59287708/9e5acec4-a3db-4958-a01f-d69539d3eca6)</p>
+ <p><img src="![image](https://github.com/juliano-rezende/juliano-rezende/assets/59287708/3338a80e-1b96-4b41-afa8-bf980542b4b4)"></p>
  <p>Bootstrap</p>
  <p>HTML</p>
  <p>CSS</p>
