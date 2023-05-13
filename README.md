@@ -50,7 +50,7 @@ Over these 10 years, I have been able to develop and work on some of my own proj
 
  <hr>
 
-<h3>Portfolio</h3>
+<h3>Works</h3>
 
 
 <img width="200" height="200" alt="image" src="https://github.com/juliano-rezende/juliano-rezende/assets/59287708/b61c4256-680c-4776-853c-b651280690c7">
