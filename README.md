@@ -53,10 +53,10 @@ Over these 10 years, I have been able to develop and work on some of my own proj
 <h3>Works</h3>
 
 
-<img width="200" height="230" alt="image" src="https://github.com/juliano-rezende/juliano-rezende/assets/59287708/b61c4256-680c-4776-853c-b651280690c7">
-<img width="200" height="230" alt="image" src="https://github.com/juliano-rezende/juliano-rezende/assets/59287708/ca5fc485-dda6-4ac5-9c87-13b04d8e25f0">
-<img width="200" height="230" src="https://github.com/juliano-rezende/juliano-rezende/assets/59287708/32ae6783-8067-42ea-a17e-c1297a33e136">
-<img width="200" height="230"  alt="image" src="https://github.com/juliano-rezende/juliano-rezende/assets/59287708/b1e3b2fe-d5e8-4ded-8ebe-4011672e9adf">
+<img width="220" height="200" alt="image" src="https://github.com/juliano-rezende/juliano-rezende/assets/59287708/b61c4256-680c-4776-853c-b651280690c7">
+<img width="220" height="200" alt="image" src="https://github.com/juliano-rezende/juliano-rezende/assets/59287708/ca5fc485-dda6-4ac5-9c87-13b04d8e25f0">
+<img width="220" height="200" src="https://github.com/juliano-rezende/juliano-rezende/assets/59287708/32ae6783-8067-42ea-a17e-c1297a33e136">
+<img width="220" height="200"  alt="image" src="https://github.com/juliano-rezende/juliano-rezende/assets/59287708/b1e3b2fe-d5e8-4ded-8ebe-4011672e9adf">
 
 
 
