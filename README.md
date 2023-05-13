@@ -38,7 +38,6 @@ Over these 10 years, I have been able to develop and work on some of my own proj
   <p>Navicat</p>
  
  
-
  <hr>
 
 <h3>Contact</h3>
@@ -48,3 +47,16 @@ Over these 10 years, I have been able to develop and work on some of my own proj
   
   <a href="mailto:julianoreze@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="ConnectWith@laxmena.com" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
+
+ <hr>
+
+<h3>Portfolio</h3>
+
+
+<img width="361" alt="image" src="https://github.com/juliano-rezende/juliano-rezende/assets/59287708/ba6bcc70-e82d-43ce-a34b-a2803cf95928">
+
+
+
+
+
+
