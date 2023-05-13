@@ -53,9 +53,12 @@ Over these 10 years, I have been able to develop and work on some of my own proj
 <h3>Portfolio</h3>
 
 
-<img width="200" height="200" alt="image" src="https://github.com/juliano-rezende/juliano-rezende/assets/59287708/d32f32e7-5759-4918-89b0-dc83dda9f01c">
-<img width="200" height="200" src="https://github.com/juliano-rezende/juliano-rezende/assets/59287708/b6478b69-ad48-413a-af01-cd9cb24e348a">
-<img width="200" height="200" alt="image" src="https://github.com/juliano-rezende/juliano-rezende/assets/59287708/92c1d28c-fc05-4cb4-b7f1-4954f70a85d9">
+<img width="200" height="200" alt="image" src="https://github.com/juliano-rezende/juliano-rezende/assets/59287708/b61c4256-680c-4776-853c-b651280690c7">
+<img width="200" height="200" alt="image" src="https://github.com/juliano-rezende/juliano-rezende/assets/59287708/ca5fc485-dda6-4ac5-9c87-13b04d8e25f0">
+<img width="200" height="200" src="https://github.com/juliano-rezende/juliano-rezende/assets/59287708/32ae6783-8067-42ea-a17e-c1297a33e136">
+
+
+
 
 
 
