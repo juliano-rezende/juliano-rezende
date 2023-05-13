@@ -12,7 +12,9 @@ Over these 10 years, I have been able to develop and work on some of my own proj
  <p>PHP</p>
  <p>Laravel</p>
  <p>Java Script</p>
- <p><img src="![image](https://github.com/juliano-rezende/juliano-rezende/assets/59287708/3338a80e-1b96-4b41-afa8-bf980542b4b4)"></p>
+ <p><a href="pt/icone/jquery-botão/151954" title="Mostrar ícone">
+<img src="https://cdn.icon-icons.com/icons2/2530/PNG/96/jquery_button_icon_151954.png" class="lazy" data-original="https://cdn.icon-icons.com/icons2/2530/PNG/96/jquery_button_icon_151954.png" title="ícone Jquery, botão   Livre" alt="ícone Jquery, botão" style="display: inline;">
+</a></p>
  <p>Bootstrap</p>
  <p>HTML</p>
  <p>CSS</p>
