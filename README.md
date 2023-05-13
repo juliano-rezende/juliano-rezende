@@ -7,29 +7,38 @@ Hi, I'm Juliano! :D
 Over these 10 years, I have been able to develop and work on some of my own projects and also for third parties. I seek to acquire as much knowledge as possible so that I can contribute to growth both as a team and individually.</p>
 
   
- <h1>Skills</h1>
-
- <p>PHP</p>
- <p><Laravel</p>
+ <h1>Skills Frontend</h1>
  <p>Java Script</p>
  <p>Jquery</p>
  <p>Boostrap</p>
  <p>Html</p>
  <p>CSS</p>
- <p>Git</p>
- <p>Git hub/p>
- <p>Visual Studio Code</p>
- <p>PHP Storm</p>
- <p>NGINX</p>
+
+<h1>Skills Backend</h1>
+ <p>PHP</p>
+ <p><Laravel</p>
+
+<h1>Skills Devops</h1>
+<p>NGINX</p>
  <p>Kaltura-NGINX</p>
  <p>KONG</p>
  <p>KONGA</p>
  <p>Elastic Search</p>
+  <p>Docker</p>
+ <p>Docker-compose</p>
+
+ <h1>Skills database persistence</h1>
  <p>Redis</p>
  <p>Mysql</p>
  <p>Postgress</p>
- <p>Docker</p>
- <p>Docker-compose</p>
+ 
+  <h1>Tools</h1>
+  <p>Php storm</p>
+  <p>Visual studio code</p>
+  <p>Navicat</p>
+ 
+ 
+
  <hr>
 
 <h3>Contact</h3>
