@@ -16,7 +16,7 @@ Over these 10 years, I have been able to develop and work on some of my own proj
 
 <h1>Skills Backend</h1>
  <p>PHP</p>
- <p><Laravel</p>
+ <p>Laravel</p>
 
 <h1>Skills Devops</h1>
 <p>NGINX</p>
