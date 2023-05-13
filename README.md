@@ -30,6 +30,7 @@ Over these 10 years, I have been able to develop and work on some of my own proj
  <p>Docker</p>
  <p>Docker-compose</p>
  
+ <hr>
 
 <h3>Contact</h3>
 
