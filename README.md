@@ -10,26 +10,17 @@ Over these 10 years, I have been able to develop and work on some of my own proj
  <h1>Skills</h1>
 
  <p>PHP</p>
- <p><a href="pt/icone/laravel-botão/151953" title="Mostrar ícone">
-<img src="https://cdn.icon-icons.com/icons2/2530/PNG/96/laravel_button_icon_151953.png" class="lazy" data-original="https://cdn.icon-icons.com/icons2/2530/PNG/96/laravel_button_icon_151953.png" title="ícone Laravel, botão   Livre" alt="ícone Laravel, botão" style="display: inline;">
-</a></p>
+ <p><Laravel</p>
  <p>Java Script</p>
- <p><a href="pt/icone/jquery-botão/151954" title="Mostrar ícone">
-<img src="https://cdn.icon-icons.com/icons2/2530/PNG/96/jquery_button_icon_151954.png" class="lazy" data-original="https://cdn.icon-icons.com/icons2/2530/PNG/96/jquery_button_icon_151954.png" title="ícone Jquery, botão   Livre" alt="ícone Jquery, botão" style="display: inline;">
-</a></p>
- <p><a href="pt/icone/bootstrap-botão/151958" title="Mostrar ícone">
-<img src="https://cdn.icon-icons.com/icons2/2530/PNG/96/bootstrap_button_icon_151958.png" class="lazy" data-original="https://cdn.icon-icons.com/icons2/2530/PNG/96/bootstrap_button_icon_151958.png" title="ícone Bootstrap, botão   Livre" alt="ícone Bootstrap, botão" style="display: inline;">
-</a></p>
- <p><a href="pt/icone/html-botão/151929" title="Mostrar ícone">
-<img src="https://cdn.icon-icons.com/icons2/2530/PNG/96/html_button_icon_151929.png" class="lazy" data-original="https://cdn.icon-icons.com/icons2/2530/PNG/96/html_button_icon_151929.png" title="ícone Html, botão   Livre" alt="ícone Html, botão" style="display: inline;">
-</a></p>
+ <p>Jquery</p>
+ <p>Boostrap</p>
+ <p>Html</p>
  <p>CSS</p>
  <p>Git</p>
- <p><a href="pt/icone/github-logo/168170" title="Mostrar ícone">
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/github_logo_icon_168170.png" class="lazy" data-original="https://cdn.icon-icons.com/icons2/2699/PNG/96/github_logo_icon_168170.png" title="ícone Github, logo   Livre" alt="ícone Github, logo" style="display: inline;">
-</a></p>
+ <p>Git hub/p>
  <p>Visual Studio Code</p>
  <p>PHP Storm</p>
+ <p>NGINX</p>
  <p>Kaltura-NGINX</p>
  <p>KONG</p>
  <p>KONGA</p>
@@ -39,7 +30,6 @@ Over these 10 years, I have been able to develop and work on some of my own proj
  <p>Postgress</p>
  <p>Docker</p>
  <p>Docker-compose</p>
- 
  <hr>
 
 <h3>Contact</h3>
